@@ -1,5 +1,6 @@
 <div align=center>
-<img width="248" alt="Asset 1@2x" src="https://user-images.githubusercontent.com/122001908/221183472-7a65a7d9-b1f5-4b10-8617-0c91ee5116d0.png">
+
+<img src="https://user-images.githubusercontent.com/122001908/221245605-f46cbc70-3625-43ca-8559-4a29732568e5.png" width="300" height="300">
 
 # Kitsune
 yet another Firefox Fork, no ambition, no goals, just for educational purposes.
